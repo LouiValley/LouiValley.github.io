@@ -1,1 +1,8 @@
+title: Jiale Yan
+description: Welcome to Jiale's homepage.
+google_analytics: 
+show_downloads: false
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
