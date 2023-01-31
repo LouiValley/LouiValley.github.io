@@ -61,7 +61,7 @@ Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](http
 
 * In the evaluation, the proposed method showed a better trade-off than conventional TTD methods on ImageNet-1K and achieved a 0.56% higher inference accuracy with a 15.44% memory reduction on Cifar-10. 
 
-* This study is my first step toward deep learning algorithms. 
+* This study is my first try at deep learning algorithms, especially when doing a remote study under a serious Covid-19 situation.  
 
 
 # Selected Publications
