@@ -26,9 +26,10 @@ Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)**
 
 # Project Experience
 
+## Hardware [Main Skill]
 Sep. 2016 - March. 2018 [**GNA: Reconfigurable and efficient architecture for generative network acceleration**](https://ieeexplore.ieee.org/document/8412607)
 
-* This work aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks. It achieves energy efficiency of 2.05 TOPS/W with 61% higher PE utilization than traditional methods in generative network acceleration.
+* This study aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks. It achieves energy efficiency of 2.05 TOPS/W with 61% higher PE utilization than traditional methods in generative network acceleration.
 
 * GNA is my first study toward deep learning accelerator.
 
@@ -43,14 +44,31 @@ April. 2018 - Jul. 2019 [**Survey: Research on low-power neural network computin
 
 * It is collaborative work with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html).
 
+## Algorithm [Sub-skill]
+
 Sep. 2019 - Present: [**Ray-tracing Tech**](https://github.com/LouiValley/RayTracing-Tech)
 
 * I'm collecting studies on ray tracing-related topics, in a GitHub project named [Ray Tracing Tech](https://github.com/LouiValley/RayTracing-Tech).  
+
+
+Sep. 2021 - Present: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family)
+
+* I'm collecting deep MLPs in a GitHub project named [Deep-Mlps family](https://github.com/LouiValley/Deep-Mlps-family). It includes various deep-MLPs' with parameters and accuracy, includeing MLP-Mixer, Cycle-MLP, ResMLP and more.
+
+Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](https://ieeexplore.ieee.org/document/10032168)
+* This study aims to combine tensor-train decomposition with deep MLPs.
+
+* In the evaluation, the proposed method showed a better trade-off than conventional TTD methods on ImageNet-1K and achieved a 0.56% higher inference accuracy with a 15.44% memory reduction on Cifar-10. 
+
+* This study is my first step toward deep learning algorithm. 
+
 
 # Selected Publications
 
 * **[TCAD'18]** **Jiale. Yan**, Shouyi Yin, Fengbin Tu, Leibo Liu, Shaojun Wei "[Gna: Reconfigurable and efficient architecture for generative network acceleration](https://ieeexplore.ieee.org/document/8412607)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018.
 * **[Sci-China'18]** **Jiale. Yan**, Ying Zhang, Fengbin Tu, Jianxun Yang, Shixuan Zheng, Peng OuYang , Leibo Liu, Yuan Xie, Shaojun Wei, Shouyi Yin "[Research on low-power neural network computing accelerator](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext)," SCIENTIA SINICA Informationis, 2019.
+
+* **[Access'23]** **J. Yan**, K. Ando, J. Yu and M. Motomura, "[TT-MLP: Tensor Train Decomposition on Deep MLPs,](https://ieeexplore.ieee.org/document/10032168)" in IEEE Access, doi: 10.1109/ACCESS.2023.3240784.
 
 
 # Invited Talks
