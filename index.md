@@ -3,12 +3,8 @@ My name is Jiale Yan. I'm currently a P.h.D candidate at [Artic Lab](http://www.
 
 
 # Research Interests
-Computer Architecture, Deep Learning, VLSI Design, Ray-tracing Computing, Reconfigurable Computing
+Computer Architecture, Deep Learning, VLSI Design, Ray-tracing Computing, Reconfigurable Computing, Sparse Computing
 
-# Professional Experience
-Aug. 2019 - Aug. 2021: **HiSilicon, Senior IC Engineer**
-
-* Ray-tracing graphic engine designer
 
 # Education
 Sep. 2021 - Now: **Tokyo Institute of Technology (Tokyo Tech)**
@@ -23,6 +19,11 @@ Sep. 2016 - Jul. 2019: **Tsinghua University (THU)**
 Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)**
 
 * B.S. in Electronic Science and Technology 
+
+# Professional Experience
+Aug. 2019 - Aug. 2021: **HiSilicon, Senior IC Engineer**
+
+* Ray-tracing graphic engine designer
 
 # Project Experience
 
