@@ -7,16 +7,16 @@ Computer Architecture, Deep Learning, VLSI Design, Ray-tracing Computing, Reconf
 
 
 # Education
-Sep. 2021 - Now: **Tokyo Institute of Technology (Tokyo Tech)**
+Sep. 2021 - Now: **Tokyo Institute of Technology (Tokyo Tech)** (Ph.D. student)
 * Department of Information and Communications Engineering
 
-Sep. 2016 - Jul. 2019: **Tsinghua University (THU)**
+Sep. 2016 - Jul. 2019: **Tsinghua University (THU)** (Master)
 
 * Dissertation: Research on Key Technologies of Energy Efficient and Reconfigurable Accelerator for Generative Neural Networks
   - Tsinghua Excellent Dissertation Award
 * Master in Integrated Circuit Engineering 
 
-Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)**
+Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)** (Bachelor)
 
 * B.S. in Electronic Science and Technology 
 
