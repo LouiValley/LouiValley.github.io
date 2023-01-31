@@ -29,9 +29,9 @@ Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)**
 ## Hardware [Main Skill]
 Sep. 2016 - March. 2018 [**GNA: Reconfigurable and efficient architecture for generative network acceleration**](https://ieeexplore.ieee.org/document/8412607)
 
-* This study aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks. It achieves energy efficiency of 2.05 TOPS/W with 61% higher PE utilization than traditional methods in generative network acceleration.
+* This study aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks. It achieves an energy efficiency of 2.05 TOPS/W with 61% higher PE utilization than traditional methods in generative network acceleration.
 
-* GNA is my first study toward deep learning accelerator.
+* GNA is my first study toward a deep learning accelerator.
 
 * Published in TCAD (IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems), 2018 (First Author).
 
@@ -53,14 +53,14 @@ Sep. 2019 - Present: [**Ray-tracing Tech**](https://github.com/LouiValley/RayTra
 
 Sep. 2021 - Present: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family)
 
-* I'm collecting deep MLPs in a GitHub project named [Deep-Mlps family](https://github.com/LouiValley/Deep-Mlps-family). It includes various deep-MLPs' with parameters and accuracy, includeing MLP-Mixer, Cycle-MLP, ResMLP and more.
+* I'm collecting deep MLPs in a GitHub project named [Deep-Mlps family](https://github.com/LouiValley/Deep-Mlps-family). It includes various deep-MLPs' with parameters and accuracy, including MLP-Mixer, Cycle-MLP, ResMLP and more.
 
 Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](https://ieeexplore.ieee.org/document/10032168)
 * This study aims to combine tensor-train decomposition with deep MLPs.
 
 * In the evaluation, the proposed method showed a better trade-off than conventional TTD methods on ImageNet-1K and achieved a 0.56% higher inference accuracy with a 15.44% memory reduction on Cifar-10. 
 
-* This study is my first step toward deep learning algorithm. 
+* This study is my first step toward deep learning algorithms. 
 
 
 # Selected Publications
