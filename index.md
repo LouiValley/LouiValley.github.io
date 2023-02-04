@@ -69,7 +69,7 @@ Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](http
 * **[TCAD'18]** **Jiale. Yan**, Shouyi Yin, Fengbin Tu, Leibo Liu, Shaojun Wei "[Gna: Reconfigurable and efficient architecture for generative network acceleration](https://ieeexplore.ieee.org/document/8412607)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018.
 * **[Sci-China'18]** **Jiale. Yan**, Ying Zhang, Fengbin Tu, Jianxun Yang, Shixuan Zheng, Peng OuYang , Leibo Liu, Yuan Xie, Shaojun Wei, Shouyi Yin "[Research on low-power neural network computing accelerator](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext)," SCIENTIA SINICA Informationis, 2019.
 
-* **[Access'23]** **J. Yan**, K. Ando, J. Yu and M. Motomura, "[TT-MLP: Tensor Train Decomposition on Deep MLPs,](https://ieeexplore.ieee.org/document/10032168)" in IEEE Access, doi: 10.1109/ACCESS.2023.3240784.
+* **[Access'23]** **Yan, J.**, Ando, K., Yu, J., & Motomura, M. (2023). [TT-MLP: Tensor Train Decomposition on Deep MLPs.](https://ieeexplore.ieee.org/document/10032168) IEEE Access.
 
 
 # Invited Talks
