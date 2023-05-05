@@ -71,12 +71,16 @@ Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](http
 
 * **[Access'23]** **Yan, J.**, Ando, K., Yu, J., & Motomura, M. (2023). [TT-MLP: Tensor Train Decomposition on Deep MLPs.](https://ieeexplore.ieee.org/document/10032168) IEEE Access.
 
+* **[CoolChip'23]** **Yan, J.**, Motomura, M. (2023). [Optimized Deep MLP for Tensor Train-based Inference Engine](https://www.coolchips.org/2023/) IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). 
+*This work won the Best Poster Award*
+
 
 # Invited Talks
 
 Reconfigurable and Efficient Architecture for Generative Network Acceleration
 * ESWEEK (Embedded Systems Week) in Torino, Italy, Sept 30, 2018.  
 * CASES(International Conference on Compilers, Architectures, and Synthesis for Embedded Systems) 2018
+* IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). Tokyo, Japan, 2023
 
 
 # Selected Honors and Awards
