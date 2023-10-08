@@ -45,35 +45,69 @@ April. 2018 - Jul. 2019 [**Survey: Research on low-power neural network computin
 
 * It is collaborative work with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html).
 
+Spet. 2022 - May. 2023 Sparse-Sparse Matrix Multiplication Accelerator
+
+* This study proposes a Disperse-Merge Product (DMP) SpMSpM dataflow and a DMP-based SpMSpM accelerator (DMSA) architecture. The DMP divides the workload into balanced flows, generates partial matrices based on these flows, and merges the partial results in a parallel and pipelined manner. 
+
+* Deployed on the Xilinx Zynq-UltraScale ZCU106, it achieves a speedup of 4.8X compared to the latest SpMSpM accelerators with similar resources on the same FPGA platform.
+
+* Results are published on ASP-DAC'23, IEEE ICCE'23.
+
+
+May. 2023 - Present Graph Neural Network Accelerator
+
+* I am doing a high-performance GNN accelerator now.
+
 ## Algorithm [Sub-skill]
 
-Sep. 2019 - Present: [**Ray-tracing Tech**](https://github.com/LouiValley/RayTracing-Tech)
-
-* I'm collecting studies on ray tracing-related topics, in a GitHub project named [Ray Tracing Tech](https://github.com/LouiValley/RayTracing-Tech).  
-
-
-Sep. 2021 - Present: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family)
-
-* I'm collecting deep MLPs in a GitHub project named [Deep-Mlps family](https://github.com/LouiValley/Deep-Mlps-family). It includes various deep-MLPs' with parameters and accuracy, including MLP-Mixer, Cycle-MLP, ResMLP and more.
 
 Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](https://ieeexplore.ieee.org/document/10032168)
 * This study aims to combine tensor-train decomposition with deep MLPs.
 
 * In the evaluation, the proposed method showed a better trade-off than conventional TTD methods on ImageNet-1K and achieved a 0.56% higher inference accuracy with a 15.44% memory reduction on Cifar-10. 
 
-* This study is my first try at deep learning algorithms, especially when doing a remote study under a serious Covid-19 situation.  
+* This study is my first try at deep learning algorithms, especially when doing a remote study under a serious Covid-19 situation.
 
+* Results are published on IEEE CoolChip'23 (won the Best Poster) and IEEE Access'23.
+
+May.2022 - April.2023: Strong Lottery Tickets(SLT) on Graph neural networks(GNNs)
+
+* By integrating SLT with GNNs, we achieved >90% memory reduction in model storage. Simultaneously, without training the weights (under randomized weights), we attained high inference accuracy on the Open Graph Benchmarks.
+
+* The paper is under review.
+
+April.2023 - Prensent: Graph-Transformer
+
+* The Graph-Transformer is a prominent topic in recent GNN research. I am currently conducting surveys on this subject.
+
+
+
+Others
+
+Sep. 2019: [**Ray-tracing Tech**](https://github.com/LouiValley/RayTracing-Tech)
+
+* I'm collecting studies on ray tracing-related topics, in a GitHub project named [Ray Tracing Tech](https://github.com/LouiValley/RayTracing-Tech).  
+
+
+Sep. 2021: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family)
+
+* I'm collecting deep MLPs in a GitHub project named [Deep-Mlps family](https://github.com/LouiValley/Deep-Mlps-family). It includes various deep-MLPs' with parameters and accuracy, including MLP-Mixer, Cycle-MLP, ResMLP and more.
 
 # Selected Publications
 
-* **[TCAD'18]** **Jiale. Yan**, Shouyi Yin, Fengbin Tu, Leibo Liu, Shaojun Wei "[Gna: Reconfigurable and efficient architecture for generative network acceleration](https://ieeexplore.ieee.org/document/8412607)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018.
-* **[Sci-China'18]** **Jiale. Yan**, Ying Zhang, Fengbin Tu, Jianxun Yang, Shixuan Zheng, Peng OuYang , Leibo Liu, Yuan Xie, Shaojun Wei, Shouyi Yin "[Research on low-power neural network computing accelerator](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext)," SCIENTIA SINICA Informationis, 2019.
+* **[IEEE TCAD'18]** **Jiale. Yan**, Shouyi Yin, Fengbin Tu, Leibo Liu, Shaojun Wei "[Gna: Reconfigurable and efficient architecture for generative network acceleration](https://ieeexplore.ieee.org/document/8412607)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018.
+* **[Sci-China'18]** **Jiale. Yan**, Ying Zhang, Fengbin Tu, Jianxun Yang, Shixuan Zheng, Peng OuYang, Leibo Liu, Yuan Xie, Shaojun Wei, Shouyi Yin "[Research on low-power neural network computing accelerator](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext)," SCIENTIA SINICA Informationis, 2019.
 
-* **[Access'23]** **Yan, J.**, Ando, K., Yu, J., & Motomura, M. (2023). [TT-MLP: Tensor Train Decomposition on Deep MLPs.](https://ieeexplore.ieee.org/document/10032168) IEEE Access.
+* **[IEEE Access'23]** **Yan, J.**, Ando, K., Yu, J., & Motomura, M. (2023). [TT-MLP: Tensor Train Decomposition on Deep MLPs.](https://ieeexplore.ieee.org/document/10032168) IEEE Access.
 
-* **[CoolChip'23]** **Yan, J.**, Motomura, M. (2023). [Optimized Deep MLP for Tensor Train-based Inference Engine](https://www.coolchips.org/2023/) IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). 
+* **[IEEE CoolChip'23]** **Yan, J.**, Motomura, M. (2023). [Optimized Deep MLP for Tensor Train-based Inference Engine](https://www.coolchips.org/2023/) IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). 
 *This work won the Best Poster Award*
 
+* **[ASP-DAC'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Sparse-Sparse Matrix Multiplication Accelerator on FPGA featuring Distribute-Merge Product Dataflow,” 29th Asia and South Pacific Design Automation Conference 2024  
+
+* **[IEEE ICCE'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Efficient COO to CSR Conversion for Accelerating Sparse Matrix Processing on FPGA”, IEEE 42nd International Conference on Consumer Electronics 2024
+
+Other papers are currently under review and have not been published here.
 
 # Invited Talks
 
