@@ -56,7 +56,7 @@ Spet. 2022 - May. 2023 **Sparse-Sparse Matrix Multiplication Accelerator**
 
 May. 2023 - Present **Graph Neural Network Accelerator**
 
-* I am doing a high-performance GNN accelerator now. **It is an exciting research.**
+* I am doing a high-performance GNN accelerator, which includes how to accelerate SpMM/GeMM computations. **It is an exciting research.**
 
 ## Algorithm [Sub-skill]
 
