@@ -45,18 +45,18 @@ April. 2018 - Jul. 2019 [**Survey: Research on low-power neural network computin
 
 * It is collaborative work with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html).
 
-Spet. 2022 - May. 2023 Sparse-Sparse Matrix Multiplication Accelerator
+Spet. 2022 - May. 2023 **Sparse-Sparse Matrix Multiplication Accelerator**
 
 * This study proposes a Disperse-Merge Product (DMP) SpMSpM dataflow and a DMP-based SpMSpM accelerator (DMSA) architecture. The DMP divides the workload into balanced flows, generates partial matrices based on these flows, and merges the partial results in a parallel and pipelined manner. 
 
 * Deployed on the Xilinx Zynq-UltraScale ZCU106, it achieves a speedup of 4.8X compared to the latest SpMSpM accelerators with similar resources on the same FPGA platform.
 
-* Results are published on ASP-DAC'23, IEEE ICCE'23.
+* Results are published on ASP-DAC'23, IEEE ICCE'23. We are also considering extending this work to further IEEE Trans journals!
 
 
-May. 2023 - Present Graph Neural Network Accelerator
+May. 2023 - Present **Graph Neural Network Accelerator**
 
-* I am doing a high-performance GNN accelerator now.
+* I am doing a high-performance GNN accelerator now. **It is an exciting research.**
 
 ## Algorithm [Sub-skill]
 
@@ -68,15 +68,15 @@ Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](http
 
 * This study is my first try at deep learning algorithms, especially when doing a remote study under a serious Covid-19 situation.
 
-* Results are published on IEEE CoolChip'23 (won the Best Poster) and IEEE Access'23.
+* Results are published in IEEE CoolChip'23 (won the Best Poster) and IEEE Access'23.
 
-May.2022 - April.2023: Strong Lottery Tickets(SLT) on Graph neural networks(GNNs)
+May.2022 - April.2023: **Strong Lottery Tickets(SLT) on Graph neural networks(GNNs)**
 
 * By integrating SLT with GNNs, we achieved >90% memory reduction in model storage. Simultaneously, without training the weights (under randomized weights), we attained high inference accuracy on the Open Graph Benchmarks.
 
 * The paper is under review.
 
-April.2023 - Prensent: Graph-Transformer
+April.2023 - Prensent: **Graph-Transformer**
 
 * The Graph-Transformer is a prominent topic in recent GNN research. I am currently conducting surveys on this subject.
 
@@ -118,6 +118,7 @@ Reconfigurable and Efficient Architecture for Generative Network Acceleration
 
 
 # Selected Honors and Awards
+* JASSO Honors Scholarship, Tsubame Scholarship, Tokyo Tech 2021 - 2023
 * Second Prize, (Team Leader) China Postgraduate Electronic Design Competition, 2017
 * Third Prize,  (Team Leader) National Postgraduate Mathematical Contest in Modeling, 2017
 * Outstanding undergraduate graduation thesis at Harbin Institute of Technology, 2016
