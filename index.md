@@ -72,9 +72,11 @@ Sep. 2021 - Sep.2022: [**TT-MLP: Tensor Train Decomposition on Deep MLPs**](http
 
 May.2022 - April.2023: **Strong Lottery Tickets(SLT) on Graph neural networks(GNNs)**
 
-* By integrating SLT with GNNs, we achieved >90% memory reduction in model storage. Simultaneously, without training the weights (under randomized weights), we attained high inference accuracy on the Open Graph Benchmarks.
+*  The Strong Lottery Ticket Hypothesis (SLTH) demonstrates the existence of high-performing subnetworks within a randomly initialized model, discoverable through pruning a convolutional neural network (CNN) without any weight training. **This work extended SLTH from CNNs to GNNs**.
 
-* The paper is under review.
+* This work utilizes Multicoated Supermasks (M-Sup), a scalar pruning mask method, and implements it in GNNs by proposing a strategy for setting its pruning thresholds adaptively. In the context of deep GNNs, this research uncovers the existence of untrained recurrent networks, which exhibit performance on par with their trained feed-forward counterparts. This paper also introduces the Multi-Stage Folding and Unshared Masks methods to expand the search space in terms of both architecture and parameters. 
+
+* Through the evaluation of various datasets, including the Open Graph Benchmark (OGB), this work establishes a triple-win scenario for SLTH-based GNNs: by achieving high sparsity, competitive performance, and high memory efficiency with up to 98.7\% reduction, it demonstrates suitability for energy-efficient graph processing.
 
 April.2023 - Prensent: **Graph-Transformer**
 
@@ -106,6 +108,8 @@ Sep. 2021: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family
 * **[ASP-DAC'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Sparse-Sparse Matrix Multiplication Accelerator on FPGA featuring Distribute-Merge Product Dataflow,” 29th Asia and South Pacific Design Automation Conference 2024  
 
 * **[IEEE ICCE'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Efficient COO to CSR Conversion for Accelerating Sparse Matrix Processing on FPGA”, IEEE 42nd International Conference on Consumer Electronics 2024
+
+* **[LoG'23]**  **Jiale Yan**, Hiroaki Ito, Ángel López García-Arias, Yasuyuki Okoshi, Hikari Otsuka, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, “Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets”, Learning on Graphs Conference 2023
 
 Other papers are currently under review and have not been published here.
 
