@@ -116,9 +116,10 @@ Other papers are currently under review and have not been published here.
 # Invited Talks
 
 Reconfigurable and Efficient Architecture for Generative Network Acceleration
-* ESWEEK (Embedded Systems Week) in Torino, Italy, Sept 30, 2018.  
-* CASES(International Conference on Compilers, Architectures, and Synthesis for Embedded Systems) 2018
-* IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). Tokyo, Japan, 2023
+* "GNA: Reconfigurable and efficient architecture for generative network acceleration", ESWEEK (Embedded Systems Week) in Torino, Italy, Sept 30, 2018.  
+* "GNA: Reconfigurable and efficient architecture for generative network acceleration", CASES(International Conference on Compilers, Architectures, and Synthesis for Embedded Systems) 2018
+* "Optimized Deep MLP for Tensor Train-based Inference Engine", IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). Tokyo, Japan, 2023
+* "Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets", Learning on Graph 2023 (Shanghai Local Meeting), Shanghai, China, Nov.29, 2023 
 
 
 # Selected Honors and Awards
