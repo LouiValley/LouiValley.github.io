@@ -105,13 +105,18 @@ Sep. 2021: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family
 * **[IEEE CoolChip'23]** **Yan, J.**, Motomura, M. (2023). [Optimized Deep MLP for Tensor Train-based Inference Engine](https://www.coolchips.org/2023/) IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). 
 *This work won the Best Poster Award*
 
+* **[LoG'23]**  **Jiale Yan**, Hiroaki Ito, Ángel López García-Arias, Yasuyuki Okoshi, Hikari Otsuka, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, “Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets”, Learning on Graphs Conference 2023
+
+* **[RCCS-IS6]** **Jiale Yan**, Hiroaki Ito, Masato Motomura, etc. "Efficient Co-Design of Hardware and Algorithms for SLT-based Graph Neural Networks, 6th R-CCS International Symposium.
+
+* **[RCCS-IS6]** Hiroaki Ito, **Jiale Yan**, Masato Motomura, etc. "Memory-efficient Methods for Graph Transformer Using Strong Lottery Tickets Hypothesis", 6th R-CCS International Symposium (RCCS-IS6). 
+Other papers are currently under review and have not been published here.
+
 * **[ASP-DAC'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Sparse-Sparse Matrix Multiplication Accelerator on FPGA featuring Distribute-Merge Product Dataflow,” 29th Asia and South Pacific Design Automation Conference 2024  
 
 * **[IEEE ICCE'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Efficient COO to CSR Conversion for Accelerating Sparse Matrix Processing on FPGA”, IEEE 42nd International Conference on Consumer Electronics 2024
 
-* **[LoG'23]**  **Jiale Yan**, Hiroaki Ito, Ángel López García-Arias, Yasuyuki Okoshi, Hikari Otsuka, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, “Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets”, Learning on Graphs Conference 2023
-
-Other papers are currently under review and have not been published here.
+* **[VLD'23]** 永原雄大, **Jiale Yan**, 川村一志, 本村真人, ThiemVan Chu, 分散マージ乗算手法に基づく疎行列疎行列積アクセラレータ, VLSI設計技術研究会（VLD）2024.
 
 # Invited Talks
 
