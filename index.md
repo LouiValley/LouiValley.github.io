@@ -166,6 +166,5 @@ Reconfigurable and Efficient Architecture for Generative Network Acceleration
 
 
 # Contact
-Address: Tokyo, Japan
 
-Email: yan.j.ae@m.titech.ac.jp
+Email: yjl16@tsinghua.org.cn
