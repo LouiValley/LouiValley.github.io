@@ -8,12 +8,12 @@ Computer Architecture, Deep Learning, VLSI Design, Ray-tracing Computing, Reconf
 
 # Education
 Sep. 2021 - Dec. 2024: **Institute of Science Tokyo (Old name: Tokyo Institute of Technology)** (Ph.D.)
-* Department of Information and Communications Engineering
+* Dissertation: Algorithm-architecture Collaborative Research toward Beyond-CNNs
+* Ph.D. in Information and Communications Engineering
 
 Sep. 2016 - Jul. 2019: **Tsinghua University (THU)** (Master)
 
 * Dissertation: Research on Key Technologies of Energy Efficient and Reconfigurable Accelerator for Generative Neural Networks
-  - Tsinghua Excellent Dissertation Award
 * Master in Integrated Circuit Engineering 
 
 Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)** (Bachelor)
@@ -21,12 +21,64 @@ Sep. 2012 - Jun. 2016: **Harbin Institute of Technology (HIT)** (Bachelor)
 * B.S. in Electronic Science and Technology 
 
 # Professional Experience
+April.2025 - Now: **Li Auto Company** 
+* NPU Architecture Senior Engineer
+
 Dec.2024 - April. 2025: **Science Tokyo, Researcher** 
-* AI Researcher
+* AI Computing Researcher
 
 Aug. 2019 - Aug. 2021: **HiSilicon, Senior IC Engineer**
 
-* Ray-tracing graphic engine designer
+* Ray-tracing Graphic Engine Designer
+
+
+# Academic Services
+
+* Paper Reviewers: IEEE on Circuits and Systems for Video Technology, Chinese Journal of Electronics, Learning on Graph Conference, International Joint Conference on Neural Networks.
+
+* IEEE Committee: IEEE Data Competition Sub-Committee Member
+
+# Selected Publications
+
+As the first author.
+
+* **[ISCA'25]** **Jiale. Yan**, Hiroaki Ito, Yuta Nagahara, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, Daichi Fujiki. "BingoGCN: Towards Scalable and Efficient GNN Acceleration with  Fine-Grained Partitioning and SLT", the 52nd International Symposium on Computer Architecture (ISCA 2025).
+
+* **[IEEE TCAD'18]** **Jiale. Yan**, Shouyi Yin, Fengbin Tu, Leibo Liu, Shaojun Wei "[Gna: Reconfigurable and efficient architecture for generative network acceleration](https://ieeexplore.ieee.org/document/8412607)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018.
+
+* **[PMLR'24]**  **Jiale Yan**, Hiroaki Ito, Ángel López García-Arias, Yasuyuki Okoshi, Hikari Otsuka, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, "Multicoated and folded graph neural networks with strong lottery tickets." Learning on Graphs Conference. PMLR, 2024.
+
+* **[Sci-China'18, Best Paper Award]** **Jiale. Yan**, Ying Zhang, Fengbin Tu, Jianxun Yang, Shixuan Zheng, Peng OuYang, Leibo Liu, Yuan Xie, Shaojun Wei, Shouyi Yin "[Research on low-power neural network computing accelerator](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext)," SCIENTIA SINICA Informationis, 2019. **This work won the Best Paper Award**
+
+* **[IEEE CoolChip'23, Best Poster Award]** **Yan, J.**, Motomura, M. (2023). [Optimized Deep MLP for Tensor Train-based Inference Engine](https://www.coolchips.org/2023/) IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). 
+**This work won the Best Poster Award**
+
+
+* **[IEEE Access'23]** **Yan, J.**, Ando, K., Yu, J., & Motomura, M. (2023). [TT-MLP: Tensor Train Decomposition on Deep MLPs.](https://ieeexplore.ieee.org/document/10032168) IEEE Access.
+
+* **[RCCS-IS6]** **Jiale Yan**, Hiroaki Ito, Masato Motomura, etc. "Efficient Co-Design of Hardware and Algorithms for SLT-based Graph Neural Networks, 6th R-CCS International Symposium.
+
+
+Other papers, as the second author.
+
+* **[IEEE TVLSI'25]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Daichi Fujiki, Masato Motomura, Thiem Van Chu, “DMSA: An Efficient Architecture for Sparse-Sparse Matrix Multiplication Based on Distribute-Merge Product Dataflow,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2025.
+
+* **[IEEE CoolChip'25]** Hiroaki Ito, **Jiale Yan**, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, Daichi Fujiki, "TTF-GNN: Memory-Efficient GNNs via Tensor Train Decomposition and Network Folding", IEEE CoolChip, 2025.
+
+* **[TMLR'25]** Hiroaki Ito, **Jiale Yan**, Hikari Otsuka, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, Daichi Fujiki, “Uncovering Strong Lottery Tickets in Graph Transformers: A Path to Memory Efficient and Robust Graph Learning”, Transactions on Machine Learning Research, 2025.
+
+* **[RCCS-IS6'24]** Hiroaki Ito, **Jiale Yan**, Masato Motomura, etc. "Memory-efficient Methods for Graph Transformer Using Strong Lottery Tickets Hypothesis", 6th R-CCS International Symposium (RCCS-IS6). 
+Other papers are currently under review and have not been published here.
+
+* **[ASP-DAC'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Sparse-Sparse Matrix Multiplication Accelerator on FPGA featuring Distribute-Merge Product Dataflow,” 29th Asia and South Pacific Design Automation Conference 2024  
+
+* **[IEEE ICCE'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Efficient COO to CSR Conversion for Accelerating Sparse Matrix Processing on FPGA”, IEEE 42nd International Conference on Consumer Electronics 2024
+
+* **[IBISML'25]** 伊藤宏朗, **嚴佳樂**, 大塚光莉, 川村一志, 本村真人, ティエム ヴァン チュ, 藤木大地, グラフトランスフォーマーにおける強い宝くじの発見, 第56回 IBISML研究会 2025.
+
+* **[VLD'23]** 永原雄大, **Jiale Yan**, 川村一志, 本村真人, ThiemVan Chu, 分散マージ乗算手法に基づく疎行列疎行列積アクセラレータ, VLSI設計技術研究会（VLD）2024.
+
+
 
 # Project Experience
 
@@ -97,46 +149,6 @@ Sep. 2019: [**Ray-tracing Tech**](https://github.com/LouiValley/RayTracing-Tech)
 Sep. 2021: [**Deep-Mlps family**](https://github.com/LouiValley/Deep-Mlps-family)
 
 * I'm collecting deep MLPs in a GitHub project named [Deep-Mlps family](https://github.com/LouiValley/Deep-Mlps-family). It includes various deep-MLPs' with parameters and accuracy, including MLP-Mixer, Cycle-MLP, ResMLP and more.
-
-# Selected Publications
-
-As the first author.
-
-* **[ISCA'25]** **Jiale. Yan**, Hiroaki Ito, Yuta Nagahara, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, Daichi Fujiki. "BingoGCN: Towards Scalable and Efficient GNN Acceleration with  Fine-Grained Partitioning and SLT", the 52nd International Symposium on Computer Architecture (ISCA 2025).
-
-* **[IEEE TCAD'18]** **Jiale. Yan**, Shouyi Yin, Fengbin Tu, Leibo Liu, Shaojun Wei "[Gna: Reconfigurable and efficient architecture for generative network acceleration](https://ieeexplore.ieee.org/document/8412607)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018.
-
-* **[PMLR'24]**  **Jiale Yan**, Hiroaki Ito, Ángel López García-Arias, Yasuyuki Okoshi, Hikari Otsuka, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, "Multicoated and folded graph neural networks with strong lottery tickets." Learning on Graphs Conference. PMLR, 2024.
-
-* **[Sci-China'18, Best Paper Award]** **Jiale. Yan**, Ying Zhang, Fengbin Tu, Jianxun Yang, Shixuan Zheng, Peng OuYang, Leibo Liu, Yuan Xie, Shaojun Wei, Shouyi Yin "[Research on low-power neural network computing accelerator](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext)," SCIENTIA SINICA Informationis, 2019. **This work won the Best Paper Award**
-
-* **[IEEE CoolChip'23, Best Poster Award]** **Yan, J.**, Motomura, M. (2023). [Optimized Deep MLP for Tensor Train-based Inference Engine](https://www.coolchips.org/2023/) IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 26). 
-**This work won the Best Poster Award**
-
-
-* **[IEEE Access'23]** **Yan, J.**, Ando, K., Yu, J., & Motomura, M. (2023). [TT-MLP: Tensor Train Decomposition on Deep MLPs.](https://ieeexplore.ieee.org/document/10032168) IEEE Access.
-
-* **[RCCS-IS6]** **Jiale Yan**, Hiroaki Ito, Masato Motomura, etc. "Efficient Co-Design of Hardware and Algorithms for SLT-based Graph Neural Networks, 6th R-CCS International Symposium.
-
-
-Other papers, as the second author.
-
-* **[IEEE TVLSI'25]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Daichi Fujiki, Masato Motomura, Thiem Van Chu, “DMSA: An Efficient Architecture for Sparse-Sparse Matrix Multiplication Based on Distribute-Merge Product Dataflow,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2025.
-
-* **[IEEE CoolChip'25]** Hiroaki Ito, **Jiale Yan**, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, Daichi Fujiki, "TTF-GNN: Memory-Efficient GNNs via Tensor Train Decomposition and Network Folding", IEEE CoolChip, 2025.
-
-* **[TMLR'25]** Hiroaki Ito, **Jiale Yan**, Hikari Otsuka, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, Daichi Fujiki, “Uncovering Strong Lottery Tickets in Graph Transformers: A Path to Memory Efficient and Robust Graph Learning”, Transactions on Machine Learning Research, 2025.
-
-* **[RCCS-IS6'24]** Hiroaki Ito, **Jiale Yan**, Masato Motomura, etc. "Memory-efficient Methods for Graph Transformer Using Strong Lottery Tickets Hypothesis", 6th R-CCS International Symposium (RCCS-IS6). 
-Other papers are currently under review and have not been published here.
-
-* **[ASP-DAC'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Sparse-Sparse Matrix Multiplication Accelerator on FPGA featuring Distribute-Merge Product Dataflow,” 29th Asia and South Pacific Design Automation Conference 2024  
-
-* **[IEEE ICCE'23]** Yuta Nagahara, **Jiale Yan**, Kazushi Kawamura, Masato Motomura, Thiem Van Chu, “Efficient COO to CSR Conversion for Accelerating Sparse Matrix Processing on FPGA”, IEEE 42nd International Conference on Consumer Electronics 2024
-
-* **[IBISML'25]** 伊藤宏朗, **嚴佳樂**, 大塚光莉, 川村一志, 本村真人, ティエム ヴァン チュ, 藤木大地, グラフトランスフォーマーにおける強い宝くじの発見, 第56回 IBISML研究会 2025.
-
-* **[VLD'23]** 永原雄大, **Jiale Yan**, 川村一志, 本村真人, ThiemVan Chu, 分散マージ乗算手法に基づく疎行列疎行列積アクセラレータ, VLSI設計技術研究会（VLD）2024.
 
 
 
