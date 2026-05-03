@@ -201,16 +201,17 @@ body {
 
 .hero-philosophy {
   margin: 18px auto 0;
-  padding: 10px 12px 12px 14px;
+  padding: 12px 14px 14px 16px;
   max-width: 280px;
   border-left: 3px solid #6366f1;
   border-radius: 0 10px 10px 0;
   background: linear-gradient(135deg, #fafaf9 0%, #f4f4f5 100%);
-  text-align: center;
+  text-align: justify;
+  text-align-last: center;
   font-family: 'Ma Shan Zheng', 'KaiTi', 'STKaiti', serif;
-  font-size: 22px;
-  line-height: 1.55;
-  letter-spacing: 0.14em;
+  font-size: 17px;
+  line-height: 1.7;
+  letter-spacing: 0.06em;
 }
 
 .hero-philosophy p {
@@ -599,8 +600,9 @@ h2.pub-year {
 
   .hero-philosophy {
     max-width: 100%;
-    font-size: 19px;
-    letter-spacing: 0.1em;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.65;
   }
 
   .pub-table tr {
