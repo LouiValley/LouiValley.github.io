@@ -207,10 +207,10 @@ body {
   border-radius: 0 10px 10px 0;
   background: linear-gradient(135deg, #fafaf9 0%, #f4f4f5 100%);
   text-align: center;
-  font-family: 'Great Vibes', cursive;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  font-family: 'Ma Shan Zheng', 'KaiTi', 'STKaiti', serif;
+  font-size: 22px;
+  line-height: 1.55;
+  letter-spacing: 0.14em;
 }
 
 .hero-philosophy p {
@@ -612,7 +612,8 @@ h2.pub-year {
 
   .hero-philosophy {
     max-width: 100%;
-    font-size: 15px;
+    font-size: 19px;
+    letter-spacing: 0.1em;
   }
 
   .pub-table tr {
