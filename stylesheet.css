@@ -200,34 +200,37 @@ body {
 }
 
 .hero-philosophy {
-  margin: 16px auto 0;
-  padding: 10px 12px 12px 14px;
-  max-width: 268px;
+  margin: 18px auto 0;
+  padding: 12px 14px 14px 16px;
+  max-width: 300px;
   border-left: 3px solid #6366f1;
   border-radius: 0 10px 10px 0;
   background: linear-gradient(135deg, #fafaf9 0%, #f4f4f5 100%);
-  text-align: left;
-  font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
 }
 
 .hero-philosophy p {
   margin: 0;
-  font-size: 13px;
-  font-style: italic;
+  font-size: 26px;
+  font-style: normal;
   font-weight: 400;
-  color: #334155;
-  line-height: 1.6;
-  letter-spacing: 0.02em;
+  color: #1e293b;
+  line-height: 1.45;
+  letter-spacing: 0.03em;
 }
 
 .hero-philosophy footer {
-  margin: 10px 0 0;
-  font-size: 11px;
+  margin: 14px 0 0;
+  padding-top: 8px;
+  font-size: 22px;
   font-style: normal;
-  font-family: 'IBM Plex Serif', Georgia, serif;
-  color: #64748b;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  font-family: 'Great Vibes', cursive;
+  color: #475569;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  text-align: right;
+  border-top: 1px solid #e7e5e4;
 }
 
 .name-block {
@@ -602,6 +605,18 @@ h2.pub-year {
 
   .hero-photo {
     margin-top: 18px;
+  }
+
+  .hero-philosophy {
+    max-width: 100%;
+  }
+
+  .hero-philosophy p {
+    font-size: 22px;
+  }
+
+  .hero-philosophy footer {
+    font-size: 19px;
   }
 
   .pub-table tr {
