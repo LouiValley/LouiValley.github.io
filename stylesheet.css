@@ -209,9 +209,9 @@ body {
   text-align: justify;
   text-align-last: center;
   font-family: 'Ma Shan Zheng', 'KaiTi', 'STKaiti', serif;
-  font-size: 15px;
-  line-height: 1.65;
-  letter-spacing: 0.05em;
+  font-size: 14px;
+  line-height: 1.6;
+  letter-spacing: 0.04em;
 }
 
 .hero-philosophy p {
