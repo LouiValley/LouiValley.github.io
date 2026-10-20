@@ -373,41 +373,36 @@ heading {
   font-size: 14px;
 }
 
+.publications-title {
+  margin: 0 0 28px;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: left;
+}
+
 .pub-year-section {
-  margin-bottom: 6px;
+  margin-bottom: 24px;
 }
 
 h2.pub-year {
-  display: block;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 19px;
-  font-weight: 700;
-  color: #fff;
-  margin: 28px 0 0;
-  padding: 10px 14px;
-  background: linear-gradient(90deg, #0c4a6e 0%, #0369a1 55%, #0ea5e9 100%);
-  border-radius: 8px 8px 0 0;
-  border-bottom: none;
-}
-
-.pub-year-section:first-of-type h2.pub-year {
-  margin-top: 12px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #6b7280;
+  margin: 0 0 4px;
+  padding: 0 0 7px;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 .pub-table {
   width: 100%;
   border: 0;
   border-collapse: collapse;
-  margin: 0 0 12px;
+  margin: 0;
 }
 
 .pub-table-compact {
-  margin: 0 0 20px;
-  border: 1px solid #e5e7eb;
-  border-top: none;
-  border-radius: 0 0 10px 10px;
-  overflow: hidden;
-  background: #fff;
+  background: transparent;
 }
 
 .pub-table tr {
@@ -415,7 +410,7 @@ h2.pub-year {
 }
 
 .pub-table-compact .pub-row td {
-  border-bottom: 1px solid #eef0f2;
+  border-bottom: none;
 }
 
 .pub-table-compact .pub-row:last-child td {
@@ -423,27 +418,22 @@ h2.pub-year {
 }
 
 .pub-chip {
-  width: 96px;
+  width: 72px;
   vertical-align: top;
-  padding: 16px 12px 16px 14px;
+  padding: 13px 18px 13px 0;
 }
 
 .venue-chip {
   display: block;
   font-size: 11px;
-  font-weight: 700;
-  line-height: 1.25;
-  text-align: center;
-  color: #1e40af;
-  background: linear-gradient(180deg, #f0f9ff 0%, #e0f2fe 100%);
-  border: 1px solid #bae6fd;
-  border-radius: 8px;
-  padding: 10px 8px;
-  box-sizing: border-box;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6b7280;
+  padding: 1px 0;
 }
 
 .pub-main {
-  padding: 14px 14px 16px 4px;
+  padding: 12px 0;
   vertical-align: top;
 }
 
@@ -452,7 +442,7 @@ h2.pub-year {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 10px 14px;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
 .pub-title-line papertitle {
@@ -467,7 +457,7 @@ h2.pub-year {
 }
 
 .pub-authors {
-  margin: 0 0 6px;
+  margin: 0 0 3px;
   font-size: 13px;
   color: #374151;
   line-height: 1.5;
@@ -487,10 +477,7 @@ h2.pub-year {
 
 .pub-badges {
   margin: 10px 0 0;
-  padding: 8px 10px;
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
+  padding: 0;
 }
 
 .pub-badges-label {
@@ -498,8 +485,6 @@ h2.pub-year {
   font-size: 10px;
   font-weight: 600;
   color: #64748b;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
   margin-bottom: 6px;
 }
 
@@ -511,7 +496,7 @@ h2.pub-year {
 }
 
 .ae-badge-img {
-  height: 30px;
+  height: 24px;
   width: auto;
   vertical-align: middle;
   display: block;
@@ -566,8 +551,8 @@ h2.pub-year {
 }
 
 .award-tag {
-  background-color: #ffffd0;
-  padding: 0 4px;
+  color: #685b40;
+  font-style: italic;
 }
 
 .awards-list li {
@@ -610,8 +595,8 @@ h2.pub-year {
 
   .pub-table-compact .pub-row {
     display: block;
-    padding: 12px 10px;
-    border-bottom: 1px solid #eef0f2;
+    padding: 10px 0;
+    border-bottom: none;
   }
 
   .pub-table-compact .pub-row td {
@@ -637,7 +622,7 @@ h2.pub-year {
 
   .venue-chip {
     display: inline-block;
-    min-width: 96px;
+    min-width: 0;
   }
 
   .pub-main {
